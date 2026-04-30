@@ -44,14 +44,13 @@ Serverless architectures like this eliminate the need for managing infrastructur
 ---
 
 ## 📂 Project Structure
-
-id="proj-struct"
+```id="proj-structure"
 AWS-SERVERLESS-SENTIMENT-ANALYSIS/
 │── lambda_function/
 │── events/
 │── template.yaml
 │── README.md
-
+```
 ---
 
 ## ⚙️ How It Works
