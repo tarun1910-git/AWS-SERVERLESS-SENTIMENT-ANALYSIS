@@ -112,11 +112,6 @@ sam deploy --guided
 
 ---
 
-## 📸 Screenshots
-
-(Add architecture diagram / output screenshots here)
-
----
 
 ## 🔮 Future Improvements
 
